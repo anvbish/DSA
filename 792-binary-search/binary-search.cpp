@@ -17,6 +17,6 @@ public:
     }
 
     int search(vector<int>& nums, int target){
-        return binarysearch(nums, target, 0, nums.size()-1);
-    }
+        return binarysearch(nums, target, 0, nums.size()-1);}
+    
 };
