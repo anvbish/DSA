@@ -4,7 +4,7 @@ public:
     long long mini;
 
     MinStack() {
-        mini = LLONG_MAX;
+        
     }
     
     void push(int val) {
